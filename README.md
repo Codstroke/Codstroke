@@ -267,13 +267,13 @@ const shah: Developer = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
 
 ### ⚡ Contribution Streak
-<img src="https://github-readme-streak-stats.demolab.com/?user=deannos&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D9FF&sideLabels=FFFFFF&dates=8B949E" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Codstroke&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D9FF&sideLabels=FFFFFF&dates=8B949E" />
 
 ### 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deannos&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=deannos&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Codstroke&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=8" />
 
 </div>
 

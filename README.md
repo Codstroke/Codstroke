@@ -18,19 +18,19 @@
 
 <!-- Dynamic Social Links with Custom Styling -->
 <p align="center">
-  <a href="https://linkedin.com/in/amishjha">
+  <a href="https://www.linkedin.com/in/sahityakr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://leetcode.com/deannos">
+  <!-- <a href="https://leetcode.com/deannos">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
-  </a>
-  <a href="https://www.codechef.com/users/deannos_coder">
+  </a> -->
+  <!-- <a href="https://www.codechef.com/users/deannos_coder">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
-  </a>
+  </a> -->
   <a href="mailto:amjha21122002@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="https://github.com/deannos">
+  <a href="[https://github.com/deannos](https://github.com/Codstroke)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </p>

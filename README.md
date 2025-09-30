@@ -149,10 +149,7 @@ const shah: Developer = {
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
   <br>Python
 </td>
-  <td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-  <br>Python
-</td>
+
 <td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="65" height="65" />
   <br>Golang
@@ -184,7 +181,7 @@ const shah: Developer = {
   <br>Vue.js
 </td>
 <td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" />
   <br>Tailwind
 </td>
 <td align="center" width="100">

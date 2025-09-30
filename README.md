@@ -218,7 +218,7 @@ const shah: Developer = {
   <br>PostgreSQL
 </td>
 <td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" height="65" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" width="65" height="65" />
   <br>Redis
 </td>
 </tr>
@@ -279,14 +279,7 @@ const shah: Developer = {
 
 ---
 
-## 🏆 Competitive Programming Excellence
 
-<div align="center">
-
-### 🎯 Platform Dominance
-
-<table>
-<tr>
 <!-- <td align="center" width="25%">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tal-revivo.png"/>
   <br><b>LeetCode</b>
@@ -308,7 +301,7 @@ const shah: Developer = {
   <br>🏅 Problem Solving
   <br>⚡ Gold Badges
 </td> -->
-<td align="center" width="25%">
+<!-- <td align="center" width="25%">
   <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
   <br><b>GeeksforGeeks</b>
   <br>🏆 170/175 Score
@@ -316,7 +309,7 @@ const shah: Developer = {
   <br>💡 Interview Ready
 </td>
 </tr>
-</table>
+</table> -->
 
 ### 📈 Contest Performance Timeline
 
@@ -356,11 +349,14 @@ const shah: Developer = {
 <tr>
 <td width="50%" align="center">
 
-### 🔥 Nebula Notifications Engine
-*Real-time Notification Service*
+### 🔥  Hotel Booking System
+*Real-time room availability*
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -373,14 +369,15 @@ const shah: Developer = {
 *🌟 Key Features:*
 - Multi-protocol support (HTTP/WebSocket)
 - JWT authentication & authorization
-- Redis-backed message persistence
+- Backed message persistence
 - Kubernetes-ready deployment
 
 </td>
 <td width="50%" align="center">
 
-### ⚛ Modern Portfolio Experience
-*Interactive 3D Portfolio Website*
+### ⚛ E-Commerce Medicine Platform
+*shopping cart, search, and payment 
+gateway integration*
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

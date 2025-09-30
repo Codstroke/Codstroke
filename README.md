@@ -21,10 +21,10 @@
   <a href="https://www.linkedin.com/in/sahityakr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <!-- <a href="https://leetcode.com/deannos">
+  <!-- <a href="https://leetcode.com/Codstroke">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
   </a> -->
-  <!-- <a href="https://www.codechef.com/users/deannos_coder">
+  <!-- <a href="https://www.codechef.com/users/Codstroke_coder">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
   </a> -->
   <a href="mailto:sahityakumark.j@gmail.com@gmail.com">
@@ -37,8 +37,8 @@
 
 <!-- Profile Views with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" />
-  <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" />
+  <img src="https://komarev.com/ghpvc/?username=Codstroke&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/Codstroke?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
@@ -264,13 +264,13 @@ const shah: Developer = {
 
 ### 🔥 GitHub Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codstroke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codstroke&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
 
 ### ⚡ Contribution Streak
 <img src="https://github-readme-streak-stats.demolab.com/?user=Codstroke&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D9FF&sideLabels=FFFFFF&dates=8B949E" />
 
 ### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deannos&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codstroke&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Codstroke&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=8" />
@@ -324,7 +324,7 @@ const shah: Developer = {
 ### 🎯 Problem Solving Mastery
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=deannos&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Codstroke&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 </div>
@@ -337,10 +337,10 @@ const shah: Developer = {
 
 ### 🚀 Pinned Repositories
 <a href="https://github.com/Codstroke/Alldwonloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=nebula-notifications&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codstroke&repo=nebula-notifications&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
 <a href="https://github.com/Codstroke/Hotel/tree/main/hotel/project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=portfolio-v2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codstroke&repo=portfolio-v2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
 
 ### 💼 Project Showcase
@@ -548,7 +548,7 @@ If you find my work interesting, consider starring some repositories!
 <table>
 <tr>
 <td align="center">
-  <img src="https://komarev.com/ghpvc/?username=deannos&color=00d9ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Codstroke&color=00d9ff&style=flat" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Last%20Updated-September%202025-brightgreen?style=flat" />

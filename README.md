@@ -475,17 +475,17 @@ const shah: Developer = {
 <td align="center">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
   <br><b>Professional</b>
-  <br><a href="https://linkedin.com/in/amishjha">LinkedIn Profile</a>
+  <br><a href="https://www.linkedin.com/in/sahityakr/">LinkedIn Profile</a>
 </td>
 <td align="center">
   <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
   <br><b>Direct Contact</b>
-  <br><a href="mailto:amjha21122002@gmail.com">Email Me</a>
+  <br><a href="mailto:sahityakumark.j@gmail.com">Email Me</a>
 </td>
 <td align="center">
   <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
   <br><b>Social Updates</b>
-  <br><a href="https://twitter.com/amishjha">Follow Me</a>
+  <br><a href="https://twitter.com/its.sahitya">Follow Me</a>
 </td>
 <td align="center">
   <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
@@ -507,7 +507,7 @@ const shah: Developer = {
 
 </div>
 
-*📍 Based in Delhi, India* • *Open to Remote Opportunities Worldwide*
+*📍 Based in Noida, India* • *Open to Remote Opportunities Worldwide*
 
 </div>
 

@@ -27,10 +27,10 @@
   <!-- <a href="https://www.codechef.com/users/deannos_coder">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
   </a> -->
-  <a href="mailto:amjha21122002@gmail.com">
+  <a href="mailto:sahityakumark.j@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="[https://github.com/deannos](https://github.com/Codstroke)">
+  <a href="https://github.com/Codstroke">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </p>
@@ -62,9 +62,9 @@ interface Developer {
   currentStatus: string;
 }
 
-const amishJha: Developer = {
-  name: "Amish Jha",
-  role: "Senior Full-Stack Developer",
+const shah: Developer = {
+  name: "Sahitya Kumar",
+  role: "Full-Stack Developer",
   location: "🇮🇳 Delhi, India",
   experience: "3+ Years in Production",
   languages: ["TypeScript", "Go", "Python", "C++", "Rust"],
@@ -93,12 +93,7 @@ const amishJha: Developer = {
 
 <div align="center">
 
-*🎖 Competitive Programming*
 
-🥇 Global Rank 98 (CodeChef)
-🎯 Top 3.33% (LeetCode)
-⚡ 1800+ Problems Solved
-🏆 15+ Contest Victories
 
 
 *💻 Development Stats*
@@ -268,7 +263,7 @@ const amishJha: Developer = {
 <div align="center">
 
 ### 🔥 GitHub Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deannos&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codstroke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
 
 ### ⚡ Contribution Streak
@@ -292,14 +287,14 @@ const amishJha: Developer = {
 
 <table>
 <tr>
-<td align="center" width="25%">
+<!-- <td align="center" width="25%">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tal-revivo.png"/>
   <br><b>LeetCode</b>
   <br>🏆 Top 3.33%
   <br>📊 600+ Problems
   <br>⭐ 2000+ Rating
-</td>
-<td align="center" width="25%">
+</td> -->
+<!-- <td align="center" width="25%">
   <img src="https://img.icons8.com/color/48/000000/chef-hat.png"/>
   <br><b>CodeChef</b>
   <br>🥇 Rank 98 Global
@@ -312,7 +307,7 @@ const amishJha: Developer = {
   <br>💎 10K+ Hackos
   <br>🏅 Problem Solving
   <br>⚡ Gold Badges
-</td>
+</td> -->
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
   <br><b>GeeksforGeeks</b>
@@ -348,10 +343,10 @@ const amishJha: Developer = {
 <div align="center">
 
 ### 🚀 Pinned Repositories
-<a href="https://github.com/deannos/nebula-notifications">
+<a href="https://github.com/Codstroke/Alldwonloader">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=nebula-notifications&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
-<a href="https://github.com/deannos/portfolio-v2">
+<a href="https://github.com/Codstroke/Hotel/tree/main/hotel/project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=portfolio-v2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
 

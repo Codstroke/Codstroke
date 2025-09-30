@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src[="https://capsule-render.vercel.app/api?type=waving&height=320&width=1200&text=Amish%20Jha&fontSize=90&fontColor=ffffff&color=gradient&customColorList=4,12,22,32,42&animation=twinkling&fontAlignY=40&desc=🚀%20Full-Stack%20Developer%20|%20🎯%20System%20Architect%20|%20⚡%20Competitive%20Programmer&descAlignY=70&descSize=20&descAlign=55&stroke=2&strokeColor=000000](https://capsule-render.vercel.app/api?type=waving&height=320&width=1200&text=Sahitya%20Kumar&fontSize=90&fontColor=ffffff&color=gradient&customColorList=4,12,22,32,42&animation=twinkling&fontAlignY=40&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20|%20%F0%9F%8E%AF%20System%20Architect%20|%20%E2%9A%A1%20Competitive%20Programmer&descAlignY=70&descSize=20&descAlign=55&stroke=2&strokeColor=000000)" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&width=1200&text=Sahitya%20Kumar&fontSize=90&fontColor=ffffff&color=gradient&customColorList=4,12,22,32,42&animation=twinkling&fontAlignY=40&desc=🚀%20Full-Stack%20Developer%20|%20🎯%20System%20Architect%20|%20⚡%20Competitive%20Programmer&descAlignY=70&descSize=20&descAlign=55&stroke=2&strokeColor=000000" 
     alt="Amish Jha Banner" 
     style="width:100%; max-width:1200px; display:block;"
   />

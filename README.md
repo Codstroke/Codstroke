@@ -504,7 +504,7 @@ gateway integration*
 
 </div>
 
-*📍 Based in Noida, India* • *Open to Remote Opportunities Worldwide*
+*📍 Based in , India* • *Open to Remote Opportunities Worldwide*
 
 </div>
 
